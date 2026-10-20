@@ -37,6 +37,7 @@ Delivered for **iPhone and iPad** at App Store Connect sizes.
 - **Continuous background.** Coins and gradients flow across frames, so the set reads as one panorama when swiped.
 
 
+
 **Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
 
 ---

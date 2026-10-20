@@ -41,6 +41,7 @@ An education platform sells to schools, gets used by teachers and has to win ove
 Discovery → audience mapping (schools, teachers, students) → wireframes → high-fidelity UI → responsive layouts → developer handoff.
 
 
+
 **Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
 
 ---

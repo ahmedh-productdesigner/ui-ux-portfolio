@@ -1,39 +1,47 @@
-# Noum Dental Dashboard
+# Noum – Dental Clinic Provider Dashboard UI/UX Design (HealthTech SaaS)
 
-![Noum Dental Dashboard – SaaS dashboard UI/UX design by Muhammad Ahmed Hussain](cover.svg)
+![Noum – Dental Clinic Provider Dashboard UI/UX Design (HealthTech SaaS) – SaaS dashboard UI/UX design by Muhammad Ahmed Hussain](images/01-patient-details-laptop.png)
 
-**Category:** SaaS & Dashboards · **Type:** Web App · Healthcare · **Tool:** Figma
+**Category:** SaaS & Dashboards · **Platform:** Web App · **Industry:** Healthcare / Dental · **Tool:** Figma
 
-A clinic management portal for a dental practice: appointments, patients and day-to-day operations in one place.
+Noum is a provider dashboard for dental and sleep-therapy clinics. It brings the patient queue, patient records, visit history, AI reports, teeth charting and treatment planning into one workspace. I designed the provider experience end to end.
 
 ## The challenge
 
-Clinic staff switch between scheduling, patient records and billing all day. The portal needed to reduce clicks for the most frequent tasks.
+Dental providers switch between patient lists, medical history, imaging files, forms and treatment plans all day, often in separate tools. Noum needed one screen where a provider can pick a patient from the queue and see everything about them in tabs, without losing their place.
 
 ## What I designed
 
-- Daily schedule and appointment calendar
-- Patient records
-- Treatment and billing overview
-- Staff and clinic settings
+- **Patient Queue:** a searchable side list with *Create New Patient*, sorting, patient IDs, file status (e.g. FILE_SUBMITTED) and a **New RX** action
+- **KPI row:** Total Patients, Pending Patients, Appliance Therapy, Physiotherapy and Treatment Completed
+- **Patient workspace tabs:** Patient Details, Visit Record, AI Reports, Teeth Charting, Myo Sync and Treatment Plan
+- **Patient details:** basic information (gender, birthday, phone, email, doctor, treatment, lead sources) and **History Details** chips for Medical, Dental and Allergy history, with **Edit Details**
+- **Visit Record:** a dated visit list with *Add Record* / *Visit Code*, a document checklist for each visit (intraoral and extraoral images, STL files, sleep test, documents), *Vitals & Measurements* (blood pressure, temperature, waist and neck circumference) and *Compliance*
+- **Patient forms:** a tracker for forms the patient fills out (Demographic, Health History, Berlin Questionnaire, HIPAA)
+- **CBCT upload:** a drag-and-drop zone for CBCT ZIP files
+
+![Noum dashboard screens](images/02-screens-collage.png)
+
+## Visual style
+
+- **Calm clinical palette:** deep teal for primary actions and active tabs, on clean white and light-grey surfaces
+- **Chips and badges** turn medical history into quick, scannable tags
+- **Dense but readable:** compact typography and clear grouping for data-heavy screens
 
 ## Approach
 
-Task-based navigation built around a receptionist's day, with a calm, clinical visual style.
+- **Queue + workspace layout.** The patient list stays on the left, so providers never lose their place.
+- **Tabs mirror the clinical workflow:** details → visit → AI reports → charting → treatment.
+- **Status at a glance:** document checklists with ✓ / ✗ show what's missing before an appointment.
+- **Built for real clinics:** sleep-therapy and myofunctional workflows (Berlin Questionnaire, Myo Sync, CBCT) are first-class, not add-ons.
 
-## Screens
+## Process
 
-<!-- Add exported screens to the images/ folder, then list them here, e.g. ![Home](images/01-home.png) -->
-_Screens are in the [`images`](images/) folder._
+Discovery with the clinic workflow → information architecture → wireframes → high-fidelity UI → component library → developer handoff.
 
 ## Figma file
 
 [Open the design in Figma](https://www.figma.com/design/Ied4wzNf1IpgcTaWrzTLbu/Dental-Portal-NOUM?node-id=3-8)
-
-## Process
-
-Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
-
 
 **Tags:** SaaS Dashboard Design · Dashboard UI · Admin Panel Design · Web App UI/UX · Data Visualization · UX Case Study · Figma · UI/UX Designer
 

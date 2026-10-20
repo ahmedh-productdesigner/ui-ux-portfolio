@@ -45,6 +45,7 @@ Discovery → renter journey mapping (search → compare → contact) → wirefr
 
 [Open the design in Figma](https://www.figma.com/design/eJLYCgIOYaXBBAeaJiV3Tp/Hously---Real-Estate-App?node-id=0-1)
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

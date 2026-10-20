@@ -17,6 +17,13 @@ Food apps compete on speed and appetite appeal. Users scroll fast and decide on 
 - **High Rating Resto:** restaurant cards with rating, price level, distance, delivery time and offer tags (Promo, Extra Cashback 25%)
 - **Nearby Restaurants:** a second list ranked by distance, with Free Delivery badges
 - **Bottom navigation** (Home, Search, Cart, Profile) with a raised centre action button
+- **Restaurant page (Taco Call):** rating (4.5, 1000+ ratings), price range, delivery time, **Delivery / Pickup / Booking** tabs and a *Limited Time Special* menu with discounted prices
+- **Map discovery:** search and filters over a map with restaurant pins and a swipeable food card (rating, distance, delivery time, favourite)
+- **Profile menu:** Reward, Language, Wishlist, Payment Method, Privacy & Policy, Terms of Service and Logout
+
+![Foody screens](images/03-screens-collage.png)
+
+![Profile and map screens](images/04-profile-and-map.png)
 
 ## Brand style
 
@@ -40,6 +47,7 @@ Discovery → ordering flow (browse → choose → cart → checkout) → wirefr
 ## Figma file
 
 [Open the design in Figma](https://www.figma.com/design/VbPcz6xr3dhA6K3PeSVz2u/Foody-Restaurant-App?node-id=1-431)
+
 
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
