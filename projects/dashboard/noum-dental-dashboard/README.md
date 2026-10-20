@@ -22,11 +22,18 @@ Dental providers switch between patient lists, medical history, imaging files, f
 
 ![Noum dashboard screens](images/02-screens-collage.png)
 
+![Patient queue and records](images/04-queue-and-records.png)
+
+![Noum on laptop](images/05-laptop-mockup.png)
+
 ## Visual style
 
+- **Type:** Inter in Regular, Medium and Bold, clean and highly legible for dense clinical data
 - **Calm clinical palette:** deep teal for primary actions and active tabs, on clean white and light-grey surfaces
 - **Chips and badges** turn medical history into quick, scannable tags
 - **Dense but readable:** compact typography and clear grouping for data-heavy screens
+
+![Noum brand and typography](images/03-brand-typography.png)
 
 ## Approach
 
@@ -42,6 +49,7 @@ Discovery with the clinic workflow → information architecture → wireframes �
 ## Figma file
 
 [Open the design in Figma](https://www.figma.com/design/Ied4wzNf1IpgcTaWrzTLbu/Dental-Portal-NOUM?node-id=3-8)
+
 
 **Tags:** SaaS Dashboard Design · Dashboard UI · Admin Panel Design · Web App UI/UX · Data Visualization · UX Case Study · Figma · UI/UX Designer
 

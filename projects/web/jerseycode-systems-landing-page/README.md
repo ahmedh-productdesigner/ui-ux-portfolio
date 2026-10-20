@@ -47,6 +47,7 @@ Discovery → content structure and sitemap → wireframes → high-fidelity UI 
 
 [Open the design in Figma](https://www.figma.com/design/3sbfOy1vSqRjb12G7qBtiI/JERSEYCODE-UI?node-id=0-1)
 
+
 **Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
 
 ---

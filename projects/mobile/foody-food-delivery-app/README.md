@@ -49,6 +49,7 @@ Discovery → ordering flow (browse → choose → cart → checkout) → wirefr
 [Open the design in Figma](https://www.figma.com/design/VbPcz6xr3dhA6K3PeSVz2u/Foody-Restaurant-App?node-id=1-431)
 
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

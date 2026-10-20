@@ -44,6 +44,7 @@ Discovery → key metrics and user questions → information architecture → wi
 [Open the design in Figma](https://www.figma.com/design/wDaU062gleeH63fqpnNjXQ/Finance)
 
 
+
 **Tags:** SaaS Dashboard Design · Dashboard UI · Admin Panel Design · Web App UI/UX · Data Visualization · UX Case Study · Figma · UI/UX Designer
 
 ---

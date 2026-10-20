@@ -42,6 +42,7 @@ Discovery → audience mapping (schools, teachers, students) → wireframes → 
 
 
 
+
 **Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
 
 ---

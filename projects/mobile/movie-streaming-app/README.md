@@ -44,6 +44,7 @@ Discovery → content structure (movies, shows, music) → wireframes → brand 
 
 [Open the design in Figma](https://www.figma.com/design/BxRSOGVD33MYNe5vkq6m3t/MOVIE-STREAMING-APP?node-id=0-1)
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

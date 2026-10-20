@@ -63,6 +63,7 @@ Wordipo helps Turkish speakers learn new words with flashcards, quizzes and read
 
 
 
+
 **Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
 
 ---

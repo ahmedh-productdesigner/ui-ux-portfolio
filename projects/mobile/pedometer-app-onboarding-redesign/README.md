@@ -47,6 +47,7 @@ The original onboarding (bottom row in the image below) had the right story, but
 Audit of the existing onboarding → drop-off points and goals → new flow and wireframes → high-fidelity UI → clickable prototype → developer handoff.
 
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

@@ -39,6 +39,7 @@ Most ride apps hide the decision: you tap "Request" and hope for the best. Chooz
 
 Discovery → rider journey (plan → compare → book) → wireframes → brand style → high-fidelity UI → clickable prototype → developer handoff.
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

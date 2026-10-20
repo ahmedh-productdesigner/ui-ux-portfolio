@@ -37,6 +37,7 @@ The step-counter category is crowded with near-identical rings and graphs. Misty
 - **Delivered for iPhone and iPad** in App Store Connect sizes.
 
 
+
 **Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
 
 ---

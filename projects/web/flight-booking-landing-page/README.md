@@ -22,6 +22,8 @@ Travel sites are noisy, full of banners, deals and pop-ups. FlyWorld needed a pa
 
 ![FlyWorld page sections](images/02-page-sections.png)
 
+![Closing call to action](images/04-cta-laptop.png)
+
 ## Visual style
 
 - **Logo:** a FlyWorld Travel wordmark with a globe and plane, plus the tagline "Helping you Fly the World"
@@ -40,6 +42,7 @@ Travel sites are noisy, full of banners, deals and pop-ups. FlyWorld needed a pa
 ## Process
 
 Discovery → booking and lead-capture flow → wireframes → brand style → high-fidelity UI → responsive layouts → developer handoff.
+
 
 **Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
 
