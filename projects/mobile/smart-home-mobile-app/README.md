@@ -46,6 +46,7 @@ Discovery → feature mapping (devices, cameras, automation, energy) → user fl
 
 [Open the design in Figma](https://www.figma.com/design/s1k6HaurOndEL8za6FM32E/Smart-home-mobile-app?node-id=0-1)
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---

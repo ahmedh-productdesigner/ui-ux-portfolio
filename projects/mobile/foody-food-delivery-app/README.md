@@ -1,38 +1,45 @@
-# Foody – Food Delivery App
+# Foody – Food Delivery Mobile App UI/UX Design
 
-![Foody – Food Delivery App – mobile app UI/UX design by Muhammad Ahmed Hussain](cover.svg)
+![Foody – Food Delivery Mobile App UI/UX Design – mobile app UI/UX design by Muhammad Ahmed Hussain](images/01-home-screen.png)
 
-**Category:** Mobile App Design · **Type:** iOS & Android · Food & Delivery · **Tool:** Figma
+**Category:** Mobile App Design · **Platform:** iOS & Android · **Industry:** Food & Delivery · **Tool:** Figma
 
-A restaurant and food delivery app with a short path from craving to checkout.
+Foody is a food delivery app with one goal: get a hungry person from "what should I eat?" to an order in as few taps as possible. I designed the brand style and the app UI, from discovery through to the restaurant cards that drive orders.
 
 ## The challenge
 
-Food apps live or die on how fast people can browse a menu, customise an order and pay.
+Food apps compete on speed and appetite appeal. Users scroll fast and decide on instinct, so the home screen has to suggest something tasty right away, show the deals that matter (cashback, free delivery) and make the cart always reachable.
 
 ## What I designed
 
-- Restaurant discovery and categories
-- Menu and item customisation
-- Cart and checkout
-- Order tracking
+- **Personal home screen:** a friendly greeting ("Hey Billie Martin, Hungry Today?"), search and a filter button
+- **Category chips** with playful 3D food icons (Burger, Donut, Pizza, Chicken, Sweet), with the active chip highlighted in violet
+- **High Rating Resto:** restaurant cards with rating, price level, distance, delivery time and offer tags (Promo, Extra Cashback 25%)
+- **Nearby Restaurants:** a second list ranked by distance, with Free Delivery badges
+- **Bottom navigation** (Home, Search, Cart, Profile) with a raised centre action button
+
+## Brand style
+
+- **Logo:** a friendly spoon-and-fork mark with a smile
+- **Type:** Poppins
+- **Colour:** violet `#8A67FF` as the brand colour, bright orange `#F95A0B` for appetite and alerts, sunny yellow `#FFD952` for ratings and highlights, and soft `#EEFAFA` for surfaces
+
+![Foody brand colours and type](images/02-brand-style.png)
 
 ## Approach
 
-Big food photography, clear prices and a cart that is always reachable keep the order moving.
+- **Appetite first.** Big food imagery and 3D icons make browsing feel fun.
+- **Deals where decisions happen.** Cashback and free delivery sit on the cards, not hidden in a promo tab.
+- **Key facts at a glance:** rating, distance, time and price level on every card.
+- **The cart is always one tap away** through the centre nav button.
 
-## Screens
+## Process
 
-<!-- Add exported screens to the images/ folder, then list them here, e.g. ![Home](images/01-home.png) -->
-_Screens are in the [`images`](images/) folder._
+Discovery → ordering flow (browse → choose → cart → checkout) → wireframes → brand style → high-fidelity UI → prototype → developer handoff.
 
 ## Figma file
 
 [Open the design in Figma](https://www.figma.com/design/VbPcz6xr3dhA6K3PeSVz2u/Foody-Restaurant-App?node-id=1-431)
-
-## Process
-
-Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 

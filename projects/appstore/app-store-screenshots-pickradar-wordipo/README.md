@@ -61,6 +61,7 @@ Wordipo helps Turkish speakers learn new words with flashcards, quizzes and read
 - **Real UI inside device frames**, so users see the actual product before downloading.
 - **Delivered for iPhone and iPad** in App Store Connect sizes.
 
+
 **Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
 
 ---

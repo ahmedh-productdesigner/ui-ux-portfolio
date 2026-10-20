@@ -34,6 +34,7 @@ _Screens are in the [`images`](images/) folder._
 
 Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
+
 **Tags:** SaaS Dashboard Design · Dashboard UI · Admin Panel Design · Web App UI/UX · Data Visualization · UX Case Study · Figma · UI/UX Designer
 
 ---

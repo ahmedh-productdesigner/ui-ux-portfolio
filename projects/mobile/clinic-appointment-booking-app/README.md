@@ -41,6 +41,7 @@ At walk-in clinics, patients usually show up, take a paper ticket and wait with 
 
 Discovery → user flow (find → choose → confirm → wait) → wireframes → high-fidelity UI → clickable prototype → developer handoff.
 
+
 **Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
 
 ---
