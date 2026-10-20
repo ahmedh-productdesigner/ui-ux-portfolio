@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E0F13"/><stop offset="1" stop-color="#1B1D26"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#E64980" stop-opacity="0.55"/><stop offset="1" stop-color="#E64980" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/><rect width="1200" height="630" fill="url(#r)"/>
+<rect x="80" y="110" rx="18" width="347" height="40" fill="#E64980" fill-opacity="0.18" stroke="#E64980"/>
+<text x="104" y="137" font-size="20" font-weight="600" fill="#E64980">BRANDING &amp; SOCIAL MEDIA</text>
+<text x="80" y="250" font-size="64" font-weight="700" fill="#FFFFFF">Book Publishing – Social</text><text x="80" y="328" font-size="64" font-weight="700" fill="#FFFFFF">Media Design</text>
+<text x="80" y="540" font-size="24" fill="#A7ABB8">Social Media</text>
+<text x="1120" y="540" font-size="22" fill="#6B7080" text-anchor="end">Muhammad Ahmed Hussain · UI/UX</text>
+<rect x="80" y="565" width="120" height="6" rx="3" fill="#E64980"/>
+</svg>
