@@ -1,6 +1,6 @@
 # Healthcare Landing Page
 
-![Healthcare Landing Page cover](cover.svg)
+![Healthcare Landing Page – landing page and website UI/UX design by Muhammad Ahmed Hussain](cover.svg)
 
 **Category:** Landing Pages & Websites · **Type:** Landing Page · Healthcare · **Tool:** Figma
 
@@ -34,6 +34,8 @@ _Screens are in the [`images`](images/) folder._
 
 Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
+**Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

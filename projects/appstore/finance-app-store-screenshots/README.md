@@ -1,6 +1,6 @@
 # Finance App Store Screenshots – iOS & iPad | ASO
 
-![Finance app App Store screenshot set](images/01-screenshot-set.png)
+![Finance App Store Screenshots – iOS & iPad | ASO – App Store screenshot design by Muhammad Ahmed Hussain](images/01-screenshot-set.png)
 
 **Category:** App Store Screenshots · **Platform:** iOS & iPad · **Market:** Turkey (Turkish language) · **Tool:** Figma
 
@@ -36,6 +36,8 @@ Delivered for **iPhone and iPad** at App Store Connect sizes.
 - **Localised copy.** Headlines are written natively in Turkish for the target market.
 - **Continuous background.** Coins and gradients flow across frames, so the set reads as one panorama when swiped.
 
+**Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

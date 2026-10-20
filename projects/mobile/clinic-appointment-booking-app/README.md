@@ -1,6 +1,6 @@
 # Clinic Appointment Booking App – iOS & Android UI/UX Design
 
-![Clinic app queue booking flow](images/01-queue-flow.png)
+![Clinic Appointment Booking App – iOS & Android UI/UX Design – mobile app UI/UX design by Muhammad Ahmed Hussain](images/01-queue-flow.png)
 
 **Category:** Mobile App Design · **Platform:** iOS & Android · **Industry:** Healthcare · **Tool:** Figma
 
@@ -41,6 +41,8 @@ At walk-in clinics, patients usually show up, take a paper ticket and wait with 
 
 Discovery → user flow (find → choose → confirm → wait) → wireframes → high-fidelity UI → clickable prototype → developer handoff.
 
+**Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

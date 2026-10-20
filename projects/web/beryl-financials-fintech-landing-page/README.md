@@ -1,6 +1,6 @@
 # Beryl Financials – Fintech Landing Page UI/UX Design
 
-![Beryl Financials landing page hero](images/01-hero.png)
+![Beryl Financials – Fintech Landing Page UI/UX Design – landing page and website UI/UX design by Muhammad Ahmed Hussain](images/01-hero.png)
 
 **Category:** Landing Pages & Websites · **Industry:** Fintech / Financial services · **Tool:** Figma
 
@@ -41,6 +41,8 @@ I built the page on a small, production-ready design system in Figma so develope
 
 Discovery → wireframes and content structure → high-fidelity UI → design system (tokens, type, components) → responsive layouts → developer handoff.
 
+**Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

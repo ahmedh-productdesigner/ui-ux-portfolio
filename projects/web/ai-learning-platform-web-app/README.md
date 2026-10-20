@@ -1,6 +1,6 @@
 # AI Learning Platform Web App – EdTech UI/UX Design
 
-![EdTech landing page overview](images/01-hero-overview.png)
+![AI Learning Platform Web App – EdTech UI/UX Design – landing page and website UI/UX design by Muhammad Ahmed Hussain](images/01-hero-overview.png)
 
 **Category:** Landing Pages & Websites · **Industry:** EdTech · **Tool:** Figma
 
@@ -40,6 +40,8 @@ An education platform sells to schools, gets used by teachers and has to win ove
 
 Discovery → audience mapping (schools, teachers, students) → wireframes → high-fidelity UI → responsive layouts → developer handoff.
 
+**Tags:** Landing Page Design · Website Design · Web UI/UX · Responsive Web Design · Website Redesign · Conversion-Focused Design · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

@@ -1,6 +1,6 @@
 # Ride Booking Mobile App
 
-![Ride Booking Mobile App cover](cover.svg)
+![Ride Booking Mobile App – mobile app UI/UX design by Muhammad Ahmed Hussain](cover.svg)
 
 **Category:** Mobile App Design · **Type:** iOS & Android · Mobility · **Tool:** Figma
 
@@ -30,6 +30,8 @@ _Screens are in the [`images`](images/) folder._
 
 Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
+**Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

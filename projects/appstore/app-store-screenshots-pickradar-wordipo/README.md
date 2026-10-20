@@ -1,6 +1,6 @@
 # App Store Screenshots – PickRadar & Wordipo | iOS & iPad ASO
 
-![PickRadar App Store screenshots](images/03-pickradar-screenshots.png)
+![App Store Screenshots – PickRadar & Wordipo | iOS & iPad ASO – App Store screenshot design by Muhammad Ahmed Hussain](images/03-pickradar-screenshots.png)
 
 **Category:** App Store Screenshots · **Platform:** iOS & iPad · **Tool:** Figma
 
@@ -61,6 +61,8 @@ Wordipo helps Turkish speakers learn new words with flashcards, quizzes and read
 - **Real UI inside device frames**, so users see the actual product before downloading.
 - **Delivered for iPhone and iPad** in App Store Connect sizes.
 
+**Tags:** App Store Screenshots · App Store Optimization (ASO) · iOS Screenshots · iPad Screenshots · Google Play Screenshots · A/B Testing · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

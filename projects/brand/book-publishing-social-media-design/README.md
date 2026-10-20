@@ -1,6 +1,6 @@
 # Book Publishing – Social Media Design
 
-![Book Publishing – Social Media Design cover](cover.svg)
+![Book Publishing – Social Media Design – brand identity and social media design by Muhammad Ahmed Hussain](cover.svg)
 
 **Category:** Branding & Social Media · **Type:** Social Media · **Tool:** Figma
 
@@ -29,6 +29,8 @@ _Screens are in the [`images`](images/) folder._
 
 Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
+**Tags:** Brand Identity · Logo Design · Social Media Design · Visual Design · Graphic Design · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

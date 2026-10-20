@@ -1,6 +1,6 @@
 # Homify – Smart Home Mobile App UI/UX Design
 
-![Homify home screen](images/01-home-screen.png)
+![Homify – Smart Home Mobile App UI/UX Design – mobile app UI/UX design by Muhammad Ahmed Hussain](images/01-home-screen.png)
 
 **Category:** Mobile App Design · **Platform:** iOS & Android · **Industry:** IoT / Smart home · **Tool:** Figma
 
@@ -46,6 +46,8 @@ Discovery → feature mapping (devices, cameras, automation, energy) → user fl
 
 [Open the design in Figma](https://www.figma.com/design/s1k6HaurOndEL8za6FM32E/Smart-home-mobile-app?node-id=0-1)
 
+**Tags:** Mobile App Design · iOS App Design · Android App Design · Mobile UI · UX Case Study · Figma Prototype · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)

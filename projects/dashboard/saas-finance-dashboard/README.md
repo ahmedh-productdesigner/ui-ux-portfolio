@@ -1,6 +1,6 @@
 # SaaS Finance Dashboard
 
-![SaaS Finance Dashboard cover](cover.svg)
+![SaaS Finance Dashboard – SaaS dashboard UI/UX design by Muhammad Ahmed Hussain](cover.svg)
 
 **Category:** SaaS & Dashboards · **Type:** Web App · Fintech · **Tool:** Figma
 
@@ -34,6 +34,8 @@ _Screens are in the [`images`](images/) folder._
 
 Discovery → wireframes and user flows → high-fidelity UI with a component library → clickable prototype → developer-ready handoff.
 
+**Tags:** SaaS Dashboard Design · Dashboard UI · Admin Panel Design · Web App UI/UX · Data Visualization · UX Case Study · Figma · UI/UX Designer
+
 ---
 
-[← Back to all projects](../../../README.md) · [Hire me on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
+[← Back to all projects](../../../README.md) · [Hire this UI/UX designer on Upwork](https://www.upwork.com/freelancers/~01a964112574c69119)
